@@ -7,7 +7,7 @@
 - Here is my <a rel="me" href="https://fosstodon.org/@LinuxPanic">Mastodon</a>
 <!--
 **Nmatt1/Nmatt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a rel="me" href="https://fosstodon.org/@LinuxPanic">Mastodon</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on teaching people how to use Linux and how to use software for Linux
